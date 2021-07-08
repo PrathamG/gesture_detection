@@ -7,7 +7,7 @@ A simple neural network model was developed to classify hand gestures between th
 
 ## Result
 
-ToDo: Add gif
+![Result GIF](example_img/gesture_detection_gif.gif)
 
 ## Example training data:
 
