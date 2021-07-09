@@ -9,10 +9,4 @@ A simple neural network model was developed to classify hand gestures between th
 
 ![Result GIF](example_img/gesture_detection_gif.gif)
 
-## Example training data:
-
-Google's Mediapipe library was used to record coordinate positions of 21 landmark keypoints that describe the shape of the hand. These values were saved in csv files and used to train the model.
-
-ToDo: Add training data images
-
 
